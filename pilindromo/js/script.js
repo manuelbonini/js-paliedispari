@@ -5,7 +5,7 @@ const string = prompt('Inserisci una parola: ');
 // chiama la funzione
 const esito = checkPalindrome(string);
 
-// console.log(value);
+// console.log(esito);
 alert(esito);
 
 
